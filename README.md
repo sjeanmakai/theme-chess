@@ -1,6 +1,6 @@
 Theme-Chess
 
-This is a chess game created with React. The chess board is themable and the themes can be changed by clicking the Choose Theme button.
+This is a chess game created with React and Recoil. The chess board is themable and the themes can be changed by clicking the Choose Theme button.
 
 The main technologies used for this game were were React, Typescript, and Recoil for state management. 
 
